@@ -1,6 +1,2 @@
-The Seamless Community Interaction and Management Platform is aimed to create an efficient, user-friendly solution that enhances communication and simplifies the management of residential societies.
-This platform is designed to:
-Facilitate seamless interaction between residents and administrators.
-Streamline administrative tasks like event management, complaint handling, and payment processing.
-Provide real-time updates for events, notices, and service requests.
-Ensure secure, role-based access for admins and residents.
+# CommUnity: Seamless Community Interaction and Management
+CommUnity is a modular, multi-tenant Community Management System designed to simplify housing society management by connecting members and streamlining daily activities. The platform provides an efficient interface for both administrators and residents, facilitating interaction, management, and engagement within the community.
